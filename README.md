@@ -12,6 +12,7 @@ I work where platform engineering meets the boardroom: leading Microsoft Fabric 
 ### 📌 Featured projects
 | Project | What it does |
 |---|---|
+|[Test-Drive-Microsoft-Fabric](https://github.com/RossCouldrey/Test-Drive-Microsoft-Fabric) | A browser-launched Fabric test drive that deploys a populated workspace (lakehouse, OData ingestion pipeline, verification notebook) from GitHub Codespaces in a few commands.|
 | [toy-yourself](https://github.com/RossCouldrey/toy-yourself) | AI-powered team-bonding activity: collectible toys, Toy Cards and an offline Toy Shelf |
 | [Application-Insights-to-PowerBI-with-ADX](https://github.com/RossCouldrey/Application-Insights-to-PowerBI-with-ADX) | Application telemetry reporting in Power BI via App Insights and Azure Data Explorer |
 | [FabricScripts](https://github.com/RossCouldrey/FabricScripts) | Python scripts for everyday Microsoft Fabric tasks |
